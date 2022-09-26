@@ -1,6 +1,6 @@
 # Range Image-based 3D LiDAR Localization
 
-This repo contains the code for our ICRA2021 paper: Range Image-based LiDAR Localization for Autonomous Vehicles.
+This repo contains the code for our ICRA2021 paper: Range Image-based LiDAR Localization for.
 
 Developed by [Xieyuanli Chen](https://www.ipb.uni-bonn.de/xieyuanli-chen/), [Ignacio Vizzo](https://www.ipb.uni-bonn.de/ignacio-vizzo/), [Thomas Läbe](https://www.ipb.uni-bonn.de/thomas-laebe/) and [Jens Behley](https://www.ipb.uni-bonn.de/jens-behley/).
  
